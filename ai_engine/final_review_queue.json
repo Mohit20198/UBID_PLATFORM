@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "record_a_name": "Foods Global Ltd",
+        "record_b_name": "Global Foods Ltd",
+        "shared_pin": "560100",
+        "confidence_score": 41.6,
+        "ai_audit_summary": "The confidence score of 41.6% indicates a high probability that Foods Global Ltd and Global Foods Ltd are related entities due to identical name components suggesting they could be variations in naming conventions used by the same company across different jurisdictions with shared pin code, which is common for businesses operating internationally or under multiple names within one region."
+    },
+    {
+        "id": 1,
+        "record_a_name": "Chemicals Mahalaxmi Group",
+        "record_b_name": "Mahalaxmi Chemicals Group",
+        "shared_pin": "560058",
+        "confidence_score": 41.6,
+        "ai_audit_summary": "The confidence score of 41.6% indicates a high degree of uncertainty in distinguishing between Chemicals Mahalaxmi Group and Mahalaxmi Chemicals Group as separate entities despite the shared pin code; however, given their close naming similarity which could suggest they are indeed one entity or closely related businesses within the same industry sector that share operational space."
+    },
+    {
+        "id": 2,
+        "record_a_name": "Engineering Shree Pvt Ltd",
+        "record_b_name": "Shree Engineering Pvt.Ltd",
+        "shared_pin": "560100",
+        "confidence_score": 41.6,
+        "ai_audit_summary": "The confidence score of 41.6% indicates a high likelihood that Engineering Shree Pvt Ltd and Shree Engineering Pvt.Ltd are indeed referring to the same company based on their shared pin code despite minor discrepancies in name spelling, which could be due to common transcription errors or variations in record-keeping practices within government databases."
+    },
+    {
+        "id": 3,
+        "record_a_name": "Bangalore Printing Traders",
+        "record_b_name": "Printing Bangalore Traders",
+        "shared_pin": "560058",
+        "confidence_score": 41.6,
+        "ai_audit_summary": "The high confidence score of 41.6%, along with identical business names and shared pin code for Bangalore Printing Traders in both Records A and B, indicates a strong likelihood that they represent the same entity due to common naming conventions used within local industries where variations often reflect differentiation by ownership or management rather than separate entities."
+    },
+    {
+        "id": 4,
+        "record_a_name": "Bangalore Printing Traders",
+        "record_b_name": "Printing Bangalore Traders",
+        "shared_pin": "560058",
+        "confidence_score": 41.6,
+        "ai_audit_summary": "The high confidence score of 41.6%, along with identical business names and shared pin code for Bangalore Printing Traders in both Records A and B, indicates a strong likelihood that they represent the same entity due to common naming conventions within localized industries and geographical proximity implied by the shared postal code."
+    }
+]
